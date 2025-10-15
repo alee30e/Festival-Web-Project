@@ -1,0 +1,28 @@
+[
+    {
+      "nume": "Kaufland",
+      "editie": "2020",
+      "contact": "contact@kauflandRomania.com"
+    },
+    {
+      "nume": "Brasov Sky Hotel",
+      "editie": "2018",
+      "contact": "info@skyh.com"
+    },
+    {
+      "nume": "Coca-Cola Romania",
+      "editie": "2019",
+      "contact": "support@CC.com"
+    },
+    {
+        "nume": "Nike",
+        "editie": "2016",
+        "contact": "support@nikeRo.com"
+    },
+    {
+        "nume": "Lild",
+        "editie": "2019",
+        "contact": "support@lidl.com"
+      }
+  ]
+  

@@ -1,0 +1,24 @@
+[
+    {
+      "id": "ag",
+      "titlu": "Acces General",
+      "pretCurent": "159 EUR",
+      "pretInitial": "249 EUR",
+      "detalii": "Detalii Acces General: Obțineți o experiență de festival de neegalat la Rockstadt."
+    },
+    {
+      "id": "ag+",
+      "titlu": "Acces General + Asigurare",
+      "pretCurent": "170 EUR",
+      "pretInitial": "265 EUR",
+      "detalii": "Detalii Acces General + Asigurare: Asigurare inclusă pentru evenimente neprevăzute."
+    },
+    {
+      "id": "vip",
+      "titlu": "Abonament VIP",
+      "pretCurent": "299 EUR",
+      "pretInitial": "349 EUR",
+      "detalii": "Detalii VIP: Include acces prioritar, saloane private și multe altele."
+    }
+  ]
+  
