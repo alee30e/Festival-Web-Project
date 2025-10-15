@@ -14,4 +14,4 @@ It showcases information about the Rockstadt Extreme Fest, including dates, line
 
 The website is a **demo project** to practice front-end development and create a visually appealing presentation for a music festival.
 
-https://username.github.io/festival
+[https://username.github.io/festival](https://alee30e.github.io/Festival-Web-Project/)
